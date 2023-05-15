@@ -1,0 +1,1 @@
+# docker_swarm_cluster_vagrant
